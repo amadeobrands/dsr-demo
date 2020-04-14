@@ -1,6 +1,6 @@
 # Dai Savings Rate Integration Example
 
-This React integration example uses the [dai-mcd-plugin](https://github.com/makerdao/dai.js/tree/dev/lib/dai-plugin-mcd) in the Dai.js library to implement Dai Savings Rate functionality. This plugin has easy to call functions that interact with the MCD smart contracts.     
+This React integration example uses the [dai-mcd-plugin](https://github.com/makerdao/dai.js/tree/dev/packages/dai-plugin-mcd) in the Dai.js library to implement Dai Savings Rate functionality. This plugin has easy to call functions that interact with the MCD smart contracts.     
 
 
 In this example you can: 
